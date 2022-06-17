@@ -1,0 +1,19 @@
+_Store
+node_modules
+report/*.txt
+report/
+*.pyc
+*.log
+*.css
+*.ico
+*.js
+*.html
+.idea/*
+no_relation/*
+*_0.py
+<<<<<<< HEAD
+*.pytest_cache/*
+environment/
+=======
+*.pytest_cache/*
+>>>>>>> b00b8da (init commit)
